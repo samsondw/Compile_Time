@@ -1,0 +1,7 @@
+{
+    "name": "Compile_Time",
+    "description": "Compile Time: Calculate time of compilation (UNIX_TIMESTAMP) based on __TIME__ and __DATE__ macros.",
+    "version": "1.0.0",
+    "frameworks": "*",
+    "platforms": "*"
+}
